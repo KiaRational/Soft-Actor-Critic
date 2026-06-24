@@ -15,7 +15,7 @@ A clean, from-scratch PyTorch implementation of **Soft Actor-Critic v2** (SAC) w
 <p align="center">
   <img src="videos/sac_ant_v4_ep0.gif" width="250"/>
   <img src="videos/sac_walker2d_v4_ep2.gif" width="250"/>
-<img src="https://raw.githubusercontent.com/KiaRational/Soft-Actor-Critic/main/ep02_return3587.gif" width="250"/>
+<img src="https://raw.githubusercontent.com/KiaRational/Soft-Actor-Critic/main/ep02_return3587.gif" height="250"/>
 </p>
 
 <p align="center">
