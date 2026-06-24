@@ -16,6 +16,8 @@ A clean, from-scratch PyTorch implementation of **Soft Actor-Critic v2** (SAC) w
 <p align="center">
   <img src="videos/sac_ant_v4_ep0.gif" width="380"/>
   <img src="videos/sac_walker2d_v4_ep2.gif" width="380"/>
+  <img src="ep02_return3587.gif" width="380"/>
+
 </p>
 <p align="center">
   <b>Ant-v4</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
